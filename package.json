@@ -1,6 +1,6 @@
 {
   "name": "sblock4js",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "The js library for [sblock](https://github.com/ddosakura/sblock)",
   "main": "lib/main.js",
   "repository": "https://github.com/ddosakura/sblock4js.git",
